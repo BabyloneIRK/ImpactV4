@@ -583,6 +583,13 @@
             "title": "Can I throw my CoreArmour™ in the washing machine?",
             "content": "<p>Absolutely — just use a cold gentle cycle to preserve the compression integrity and extend the lifespan of the fabric.</p>"
           }
+        },
+        "item_eMXHX7": {
+          "type": "item",
+          "settings": {
+            "title": "What is the CoreArmour™ made of?",
+            "content": "<p>80% nylon, 20% spandex.</p>"
+          }
         }
       },
       "block_order": [
@@ -591,7 +598,8 @@
         "item_j6zawx",
         "item_FJwr4n",
         "item_qn38tK",
-        "item_wdkXBG"
+        "item_wdkXBG",
+        "item_eMXHX7"
       ],
       "name": "FAQ",
       "settings": {
