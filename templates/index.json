@@ -12,12 +12,6 @@
     "image_with_text_overlay_WBm4eq": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_6gpgYp": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_HPrcAR": {
           "type": "heading",
           "settings": {
@@ -33,7 +27,6 @@
         }
       },
       "block_order": [
-        "subheading_6gpgYp",
         "heading_HPrcAR",
         "richtext_PWcQRQ"
       ],
@@ -43,6 +36,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Design_sans_titre.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
