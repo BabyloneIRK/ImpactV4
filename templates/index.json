@@ -281,6 +281,17 @@
           "settings": {
             "product": "{{section.settings.product}}"
           }
+        },
+        "buy_buttons_jHUgU4": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#00B67B",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
         }
       },
       "block_order": [
@@ -289,7 +300,8 @@
         "liquid_W4mrea",
         "separator_gM6aG3",
         "liquid_Cw47WK",
-        "rapi_rapi_bundle_ptArbK"
+        "rapi_rapi_bundle_ptArbK",
+        "buy_buttons_jHUgU4"
       ],
       "name": "Featured product",
       "settings": {
