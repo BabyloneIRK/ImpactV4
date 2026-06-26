@@ -140,6 +140,96 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "multi_column_JFLBLk": {
+      "type": "multi-column",
+      "blocks": {
+        "item_JGCtAX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-10-24_095301694.webp",
+            "column_size": "3",
+            "title": "James H. — Age 45",
+            "heading_tag": "h4",
+            "content": "<p>Ever since I put on weight, I avoided every family photo. Last weekend, I stood front and centre for the first time in four years. My sister even said I looked like I'd got back in shape.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_hcrPtC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_2025-10-24_095503368.webp",
+            "column_size": "3",
+            "title": "Oliver T. — Age 33",
+            "heading_tag": "h4",
+            "content": "<p>It's not just a compression shirt. After wearing it every day for three months, my posture completely changed. I even lost weight without changing anything else. My colleagues started asking if I'd joined the gym. It's been a genuine physical transformation.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_4zd6zD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_-_2026-04-07T152308.503.webp",
+            "column_size": "3",
+            "title": "Daniel B. — Age 31",
+            "heading_tag": "h4",
+            "content": "<p>For years, I was constantly sucking my stomach in during meetings without even realising it. It was exhausting. Since wearing Underfit, I don't even think about it anymore. My shirts fit properly, and I've got my confidence back.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_M9aQea": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/hf_20260221_030705_dba00b9d-7a79-4f07-b47f-6befe9e42184.webp",
+            "column_size": "3",
+            "title": "Matthew C. — Age 38",
+            "heading_tag": "h4",
+            "content": "<p>Honestly, I didn't believe the hype. I've always had a stomach I tried to hide under oversized T-shirts. The first time I put it on, my wife asked if I'd lost weight. I hadn't changed a thing</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ykCNcb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_-_2026-04-07T152205.922.webp",
+            "column_size": "3",
+            "title": "Ryan M. — Age 39",
+            "heading_tag": "h4",
+            "content": "<p>I wasn't expecting much. But after a month, the way I saw myself in the mirror completely changed. I'm not fighting my reflection anymore. It might sound silly, but it's the first time in years I've genuinely felt comfortable in my own body.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_JGCtAX",
+        "item_hcrPtC",
+        "item_4zd6zD",
+        "item_M9aQea",
+        "item_ykCNcb"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "small",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -148,6 +238,7 @@
     "image_with_text_overlay_QeaKUK",
     "custom_liquid_nQFFGy",
     "video_7GDB7M",
-    "custom_liquid_WcyGxi"
+    "custom_liquid_WcyGxi",
+    "multi_column_JFLBLk"
   ]
 }
