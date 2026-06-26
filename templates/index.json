@@ -259,11 +259,18 @@
           "settings": {
             "heading_tag": "h4"
           }
+        },
+        "liquid_W4mrea": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"stock-alert\">\n  <span class=\"stock-alert__dot\"></span>\n  <span class=\"stock-alert__text\">Only 4 left in stock.</span>\n</div>\n\n<style>\n  .stock-alert {\n    display: flex;\n    align-items: center;\n    gap: 8px;\n    font-size: 14px;\n    font-weight: 700;\n    color: #111111;\n    line-height: 1.2;\n    margin: 6px 0;\n  }\n\n  .stock-alert__dot {\n    width: 6px;\n    height: 6px;\n    background: #e06b6b;\n    border-radius: 50%;\n    display: inline-block;\n    animation: stockPulse 1.4s ease-in-out infinite;\n  }\n\n  @keyframes stockPulse {\n    0%, 100% {\n      transform: scale(1);\n      opacity: 0.75;\n    }\n    50% {\n      transform: scale(1.4);\n      opacity: 1;\n    }\n  }\n</style>"
+          }
         }
       },
       "block_order": [
         "liquid_Mwb48X",
-        "title_4CwpCR"
+        "title_4CwpCR",
+        "liquid_W4mrea"
       ],
       "name": "Featured product",
       "settings": {
