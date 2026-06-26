@@ -92,7 +92,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_26_juin_2026_23_36_03.png",
+        "image": "shopify://shop_images/ChatGPT_Image_26_juin_2026_23_39_48.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -127,6 +127,19 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "custom_liquid_WcyGxi": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"reviews-clean\">\n  <h2>Thousands of customers have shared their experience</h2>\n\n  <div class=\"reviews-line\">\n    <span class=\"rating-text\">Excellent</span>\n    <strong class=\"rating-score\">4.6 / 5</strong>\n\n    <span class=\"stars-premium\" role=\"img\" aria-label=\"4.6 out of 5\">\n      <svg viewBox=\"0 0 560 96\" xmlns=\"http://www.w3.org/2000/svg\" class=\"stars-svg\">\n        <defs>\n          <linearGradient id=\"goldGrad\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\">\n            <stop offset=\"0%\" stop-color=\"#F6C667\"/>\n            <stop offset=\"50%\" stop-color=\"#E0A93C\"/>\n            <stop offset=\"100%\" stop-color=\"#C8922B\"/>\n          </linearGradient>\n\n          <linearGradient id=\"partialGold\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"0\">\n            <stop offset=\"60%\" stop-color=\"#E0A93C\"/>\n            <stop offset=\"60%\" stop-color=\"#E5E1D8\"/>\n          </linearGradient>\n        </defs>\n\n        <g>\n          <path transform=\"translate(0 8)\" fill=\"url(#goldGrad)\" d=\"M40 4l11 22 24 3-17 17 4 24-22-12-22 12 4-24-17-17 24-3z\"/>\n          <path transform=\"translate(112 8)\" fill=\"url(#goldGrad)\" d=\"M40 4l11 22 24 3-17 17 4 24-22-12-22 12 4-24-17-17 24-3z\"/>\n          <path transform=\"translate(224 8)\" fill=\"url(#goldGrad)\" d=\"M40 4l11 22 24 3-17 17 4 24-22-12-22 12 4-24-17-17 24-3z\"/>\n          <path transform=\"translate(336 8)\" fill=\"url(#goldGrad)\" d=\"M40 4l11 22 24 3-17 17 4 24-22-12-22 12 4-24-17-17 24-3z\"/>\n          <path transform=\"translate(448 8)\" fill=\"url(#partialGold)\" d=\"M40 4l11 22 24 3-17 17 4 24-22-12-22 12 4-24-17-17 24-3z\"/>\n        </g>\n      </svg>\n    </span>\n  </div>\n\n  <div class=\"reviews-bottom\">\n    <span>Based on over <strong>1,800 verified reviews</strong></span>\n  </div>\n</div>\n\n<style>\n.reviews-clean {\n  text-align: center;\n  color: #000;\n  margin-bottom: 0 !important;\n  padding-bottom: 0 !important;\n}\n\n.reviews-clean h2 {\n  font-size: 22px;\n  font-weight: 700;\n  margin-bottom: 0.8rem;\n  line-height: 1.5;\n}\n\n.reviews-line {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 10px;\n  font-size: 1rem;\n  margin-bottom: 0.5rem;\n}\n\n.rating-text,\n.rating-score {\n  font-size: 1rem;\n  line-height: 1;\n  display: inline-block;\n  vertical-align: middle;\n}\n\n.rating-score {\n  font-weight: 700;\n}\n\n.stars-premium {\n  display: inline-flex;\n  align-items: center;\n}\n\n.stars-svg {\n  width: 130px;\n  height: auto;\n  display: block;\n}\n\n.reviews-bottom {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n  font-size: 0.95rem;\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -134,6 +147,7 @@
     "logo_list_YtMrQn",
     "image_with_text_overlay_QeaKUK",
     "custom_liquid_nQFFGy",
-    "video_7GDB7M"
+    "video_7GDB7M",
+    "custom_liquid_WcyGxi"
   ]
 }
