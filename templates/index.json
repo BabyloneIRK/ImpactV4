@@ -356,39 +356,59 @@
         "item_qPAYn8": {
           "type": "item",
           "settings": {
-            "row_heading": "NATIVE SHOPIFY PAGE BUILDER",
-            "first_column": "Yes",
-            "second_column": "No",
+            "row_heading": "All-day compression comfort",
+            "first_column": "",
+            "first_column_image": "shopify://shop_images/svg-check-blanc_1_1.svg",
+            "second_column": "",
+            "second_column_image": "shopify://shop_images/svg-close-rouge_1_1.svg",
             "third_column": "",
             "four_column": ""
           }
         },
-        "item_kWibyE": {
+        "item_BHXy3f": {
           "type": "item",
           "settings": {
-            "row_heading": "NO MONTHLY SUBSCRIPTION FEES",
-            "first_column": "Yes",
-            "second_column": "No",
+            "row_heading": "Durable high-grade material",
+            "first_column": "",
+            "first_column_image": "shopify://shop_images/svg-check-blanc_1_1.svg",
+            "second_column": "",
+            "second_column_image": "shopify://shop_images/svg-close-rouge_1_1.svg",
             "third_column": "",
             "four_column": ""
           }
         },
-        "item_HNyzjR": {
+        "item_TWAa9H": {
           "type": "item",
           "settings": {
-            "row_heading": "200+ HIGHLY CUSTOMISABLE SECTIONS",
-            "first_column": "Yes",
-            "second_column": "No",
+            "row_heading": "Undetectable beneath any shirt",
+            "first_column": "",
+            "first_column_image": "shopify://shop_images/svg-check-blanc_1_1.svg",
+            "second_column": "",
+            "second_column_image": "shopify://shop_images/svg-close-rouge_1_1.svg",
             "third_column": "",
             "four_column": ""
           }
         },
-        "item_EDx3iQ": {
+        "item_FVQifJ": {
           "type": "item",
           "settings": {
-            "row_heading": "THE SLEEKEST LOOKING DESIGNS",
-            "first_column": "Yes",
-            "second_column": "No",
+            "row_heading": "Doubles as a sharp athletic top",
+            "first_column": "",
+            "first_column_image": "shopify://shop_images/svg-check-blanc_1_1.svg",
+            "second_column": "",
+            "second_column_image": "shopify://shop_images/svg-close-rouge_1_1.svg",
+            "third_column": "",
+            "four_column": ""
+          }
+        },
+        "item_dmRfBQ": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Lightweight moisture-wicking fabric",
+            "first_column": "",
+            "first_column_image": "shopify://shop_images/svg-check-blanc_1_1.svg",
+            "second_column": "",
+            "second_column_image": "shopify://shop_images/svg-close-rouge_1_1.svg",
             "third_column": "",
             "four_column": ""
           }
@@ -396,15 +416,16 @@
       },
       "block_order": [
         "item_qPAYn8",
-        "item_kWibyE",
-        "item_HNyzjR",
-        "item_EDx3iQ"
+        "item_BHXy3f",
+        "item_TWAa9H",
+        "item_FVQifJ",
+        "item_dmRfBQ"
       ],
       "name": "SS - Comparison Table #4",
       "settings": {
         "heading": "<h2>Why CoreArmour™</h2>",
         "heading_custom": false,
-        "heading_font": "assistant_n4",
+        "heading_font": "poppins_n4",
         "heading_size": 56,
         "heading_size_mobile": 32,
         "heading_height": 130,
@@ -419,8 +440,10 @@
         "table_column_active_border_thickness": 2,
         "table_heading_image_size": 66,
         "table_heading_image_size_mobile": 40,
-        "first_heading": "SECTION STORE",
-        "second_heading": "OTHERS",
+        "first_heading": "",
+        "first_heading_image": "shopify://shop_images/hf_20260424_145329_1873eb2d-37fc-423c-9439-b82792024e4e.webp",
+        "second_heading": "",
+        "second_heading_image": "shopify://shop_images/vboost-v2-comp-2_400x_d09ea315-ea7e-49c2-aabe-a9f2c65d7125.webp",
         "third_heading": "",
         "four_heading": "",
         "table_heading_custom": false,
@@ -457,7 +480,7 @@
         "table_row_image_size_mobile": 40,
         "buttons_mt": 44,
         "buttons_gap": 16,
-        "button": "OUR STORY",
+        "button": "",
         "button_url": "",
         "button_custom": false,
         "button_font": "josefin_sans_n4",
@@ -468,7 +491,7 @@
         "button_padding_horizontal": 40,
         "button_radius": 6,
         "button_border_thickness": 2,
-        "second_button": "EXPLORE ALL SECTIONS",
+        "second_button": "",
         "second_button_url": "",
         "second_button_custom": false,
         "second_button_font": "josefin_sans_n4",
@@ -479,17 +502,17 @@
         "second_button_padding_horizontal": 40,
         "second_button_radius": 6,
         "second_button_border_thickness": 2,
-        "table_heading_color": "#2F1718",
+        "table_heading_color": "#000000",
         "table_heading_active_color": "#FFFFFF",
-        "table_heading_bg_active_color": "#AA1B26",
-        "table_column_active_bg_color": "#FFFFFF",
-        "table_column_active_border_color": "#AA1B26",
-        "table_row_border_color": "#D3CABC",
-        "table_row_heading_color": "#2F1718",
-        "table_row_text_color": "#2F1718",
-        "table_row_active_text_color": "#AA1B26",
+        "table_heading_bg_active_color": "#000000",
+        "table_column_active_bg_color": "#000000",
+        "table_column_active_border_color": "#000000",
+        "table_row_border_color": "#000000",
+        "table_row_heading_color": "#000000",
+        "table_row_text_color": "#FFFFFF",
+        "table_row_active_text_color": "#FFFFFF",
         "button_color": "#A8252E",
-        "button_hover_color": "#FFFFFF",
+        "button_hover_color": "#000000",
         "button_bg_color": "",
         "button_bg_hover_color": "#A8252E",
         "button_border_color": "#A8252E",
@@ -501,7 +524,7 @@
         "second_button_border_color": "#A8252E",
         "second_button_border_hover_color": "#791119",
         "heading_color": "#2F1718",
-        "background_color": "#FFFAED",
+        "background_color": "#FFFFFF",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
