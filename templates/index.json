@@ -569,13 +569,29 @@
             "title": "What happens if my size doesn't fit?",
             "content": "<p>Not a problem at all. Simply contact us at contact@core-armour.com and our team will arrange an exchange right away.</p>"
           }
+        },
+        "item_qn38tK": {
+          "type": "item",
+          "settings": {
+            "title": "How long does shipping take?",
+            "content": "<p>All orders typically arrive within 5 to 8 business days anywhere in the world. The majority of packages land well before the 8-day window, but we quote the longer timeframe to stay on the safe side.</p>"
+          }
+        },
+        "item_wdkXBG": {
+          "type": "item",
+          "settings": {
+            "title": "Can I throw my CoreArmour™ in the washing machine?",
+            "content": "<p>Absolutely — just use a cold gentle cycle to preserve the compression integrity and extend the lifespan of the fabric.</p>"
+          }
         }
       },
       "block_order": [
         "item_BxWWYb",
         "item_i4a3ng",
         "item_j6zawx",
-        "item_FJwr4n"
+        "item_FJwr4n",
+        "item_qn38tK",
+        "item_wdkXBG"
       ],
       "name": "FAQ",
       "settings": {
