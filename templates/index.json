@@ -265,12 +265,24 @@
           "settings": {
             "liquid": "<div class=\"stock-alert\">\n  <span class=\"stock-alert__dot\"></span>\n  <span class=\"stock-alert__text\">Only 4 left in stock.</span>\n</div>\n\n<style>\n  .stock-alert {\n    display: flex;\n    align-items: center;\n    gap: 8px;\n    font-size: 14px;\n    font-weight: 700;\n    color: #111111;\n    line-height: 1.2;\n    margin: 6px 0;\n  }\n\n  .stock-alert__dot {\n    width: 6px;\n    height: 6px;\n    background: #e06b6b;\n    border-radius: 50%;\n    display: inline-block;\n    animation: stockPulse 1.4s ease-in-out infinite;\n  }\n\n  @keyframes stockPulse {\n    0%, 100% {\n      transform: scale(1);\n      opacity: 0.75;\n    }\n    50% {\n      transform: scale(1.4);\n      opacity: 1;\n    }\n  }\n</style>"
           }
+        },
+        "separator_gM6aG3": {
+          "type": "separator",
+          "settings": {}
+        },
+        "liquid_Cw47WK": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<section class=\"ua-benefits\">\n\n  <div class=\"ua-item\">\n    <span class=\"ua-check\">✓</span>\n    <p><strong>Feel confident again</strong> — finally feel comfortable in any T-shirt or shirt.</p>\n  </div>\n\n  <div class=\"ua-item\">\n    <span class=\"ua-check\">✓</span>\n    <p><strong>A sharper silhouette in seconds</strong> — helps define your chest and smooth your stomach.</p>\n  </div>\n\n  <div class=\"ua-item\">\n    <span class=\"ua-check\">✓</span>\n    <p><strong>Better posture, naturally</strong> — stand taller and look more confident all day.</p>\n  </div>\n\n  <div class=\"ua-item\">\n    <span class=\"ua-check\">✓</span>\n    <p><strong>Completely invisible</strong> — hidden under your clothes, visible in your confidence.</p>\n  </div>\n\n  <div class=\"ua-proof\">\n    <strong>Trusted by 125,000+ men worldwide.</strong>\n  </div>\n\n</section>\n\n<style>\n.ua-benefits{\n    max-width:640px;\n    margin:0 auto;\n    display:flex;\n    flex-direction:column;\n    gap:12px;\n    color:#111;\n    font-family:inherit;\n}\n\n.ua-item{\n    display:flex;\n    align-items:flex-start;\n    gap:10px;\n}\n\n.ua-check{\n    font-size:15px;\n    font-weight:700;\n    color:#111;\n    line-height:1.4;\n    margin-top:1px;\n}\n\n.ua-item p{\n    margin:0;\n    font-size:14px;\n    line-height:1.45;\n    font-weight:400;\n    letter-spacing:-0.15px;\n}\n\n.ua-item strong{\n    font-weight:700;\n}\n\n.ua-proof{\n    margin-top:6px;\n    padding:12px 14px;\n    border:1px solid #E8E8E8;\n    border-radius:12px;\n    background:#FAFAFA;\n    text-align:center;\n    font-size:13.5px;\n    letter-spacing:-0.15px;\n    color:#111;\n}\n\n@media(max-width:768px){\n    .ua-item p{\n        font-size:13.5px;\n    }\n\n    .ua-proof{\n        font-size:13px;\n        padding:11px 12px;\n    }\n}\n</style>"
+          }
         }
       },
       "block_order": [
         "liquid_Mwb48X",
         "title_4CwpCR",
-        "liquid_W4mrea"
+        "liquid_W4mrea",
+        "separator_gM6aG3",
+        "liquid_Cw47WK"
       ],
       "name": "Featured product",
       "settings": {
