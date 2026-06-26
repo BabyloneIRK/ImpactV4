@@ -247,6 +247,24 @@
     },
     "featured_product_GbnHek": {
       "type": "featured-product",
+      "blocks": {
+        "liquid_Mwb48X": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"uk-rating-line\">\n  <span class=\"uk-stars\">★★★★★</span>\n  <span class=\"uk-rating-text\">Rated 4.7 by over 1,800 customers!</span>\n</div>\n\n<style>\n  .uk-rating-line {\n    display: flex;\n    align-items: center;\n    gap: 6px;\n    font-size: 13px;\n    font-weight: 600;\n    color: #111;\n  }\n\n  .uk-stars {\n    color: #FFB800;\n    letter-spacing: -1px;\n  }\n</style>"
+          }
+        },
+        "title_4CwpCR": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h4"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_Mwb48X",
+        "title_4CwpCR"
+      ],
       "name": "Featured product",
       "settings": {
         "full_width": true,
@@ -257,7 +275,7 @@
         "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
-        "enable_image_zoom": true,
+        "enable_image_zoom": false,
         "max_image_zoom_level": 3,
         "background": "",
         "background_gradient": "",
