@@ -538,6 +538,59 @@
         "border_thickness": 0,
         "lazy": true
       }
+    },
+    "faq_9PcTWt": {
+      "type": "faq",
+      "blocks": {
+        "item_BxWWYb": {
+          "type": "item",
+          "settings": {
+            "title": "Who is CoreArmour™ designed for?",
+            "content": "<p>CoreArmour™ is built for men looking to slim down their appearance, regain body confidence, straighten their posture, feel more energized throughout the day, and look leaner under any outfit.</p>"
+          }
+        },
+        "item_i4a3ng": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_j6zawx": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_BxWWYb",
+        "item_i4a3ng",
+        "item_j6zawx"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Frequently Asked Questions",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -549,6 +602,7 @@
     "custom_liquid_WcyGxi",
     "multi_column_JFLBLk",
     "featured_product_GbnHek",
-    "ss_comparaison_table_8BeLxd"
+    "ss_comparaison_table_8BeLxd",
+    "faq_9PcTWt"
   ]
 }
