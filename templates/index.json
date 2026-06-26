@@ -769,7 +769,7 @@
       "name": "SS - Testimonials #7",
       "settings": {
         "hide_images": true,
-        "heading": "<h2> Customers are thrilled with their 'glow-up bedtime' routine.</h2>",
+        "heading": "<p><strong>Rated 4.7/5 from 1,832 reviews</strong></p>",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 36,
