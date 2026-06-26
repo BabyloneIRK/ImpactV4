@@ -623,6 +623,242 @@
         "accordion_background": "#000000",
         "accordion_text_color": "#FFFFFF"
       }
+    },
+    "ss_testimonial_7_bhq4MX": {
+      "type": "ss-testimonial-7",
+      "blocks": {
+        "image_MpB79Q": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1781709514__1781709504652-img_8282__original.webp"
+          }
+        },
+        "image_R39U66": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1781074683__1781074678790-20260610_164030__original.webp"
+          }
+        },
+        "image_dhVTh4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1780589524__1780589514495-img_20260604_121036091__original.webp"
+          }
+        },
+        "image_CEqVbn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1780469861__1780469854463-17804698354455949363622451__original.webp"
+          }
+        },
+        "image_pTxpAV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1779928074__1779928064527-17799280369451323365314491__original.webp"
+          }
+        },
+        "image_CVQrUD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1779910147__image__original.webp"
+          }
+        },
+        "image_waYHFe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1779866289__1779866284008-20260527_101708__original.webp"
+          }
+        },
+        "image_9A7Cnn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1778999526__img_1615__original.webp"
+          }
+        },
+        "testimonial_jL4VgE": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Absolutely love it. The fit is perfect, it's incredibly comfortable, and it gives me a much more defined shape under my clothes. I've worn it every day since it arrived.",
+            "author": "James P.",
+            "verified": "VERIFIED PURCHASE"
+          }
+        },
+        "testimonial_xiTCTi": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Really impressed with the quality. It fits comfortably without feeling too tight, and it makes a noticeable difference to my shape. My shirts fit much better now, and I've felt much more confident wearing it. Definitely worth it.",
+            "author": "Trevor B.",
+            "verified": "VERIFIED PURCHASE"
+          }
+        },
+        "testimonial_VEiV7G": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Good material, fit just right. Comfort all Day.",
+            "author": "William S.",
+            "verified": "VERIFIED PURCHASE"
+          }
+        },
+        "testimonial_pYFt3m": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "I just feel more confident wear the. For work the gym and going out",
+            "author": "Jon M.",
+            "verified": "VERIFIED PURCHASE"
+          }
+        },
+        "testimonial_Q8AB6d": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "It's very comfortable and breathes very well in the heat ,it pulls some stuff in but not that much.It is a good shirt.",
+            "author": "Robert T",
+            "verified": "VERIFIED PURCHASE"
+          }
+        },
+        "testimonial_ik8NGK": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 4.5,
+            "text": "Great look, great fit except in the armpit area. Other wise love the shit style and fit I will definitely buy more",
+            "author": "Robert R.",
+            "verified": "VERIFIED PURCHASE"
+          }
+        },
+        "testimonial_RRb9bf": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "It really does seem to work, so I'm hoping after another 3 weeks, the results will be even better. I felt the difference almost immediately.",
+            "author": "Darron M.",
+            "verified": "VERIFIED PURCHASE"
+          }
+        },
+        "testimonial_pwHGGk": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Before purchasing this product, I was skeptical whether to buy it or not. After watching the advertisement every day, I finally decided to give it a try, even if I might lose the money. Yesterday I received the product, and I was really surprised by how comfortable it is and how much confidence it gives you while wearing it. Now I am very happy and planning to buy more. Only one suggestion — if this product comes in a V-shape collar instead of a round collar, it would be even more beneficial and easier to hide under shirts or T-shirts.",
+            "author": "Mohammed Z.",
+            "verified": "VERIFIED PURCHASE"
+          }
+        }
+      },
+      "block_order": [
+        "image_MpB79Q",
+        "image_R39U66",
+        "image_dhVTh4",
+        "image_CEqVbn",
+        "image_pTxpAV",
+        "image_CVQrUD",
+        "image_waYHFe",
+        "image_9A7Cnn",
+        "testimonial_jL4VgE",
+        "testimonial_xiTCTi",
+        "testimonial_VEiV7G",
+        "testimonial_pYFt3m",
+        "testimonial_Q8AB6d",
+        "testimonial_ik8NGK",
+        "testimonial_RRb9bf",
+        "testimonial_pwHGGk"
+      ],
+      "name": "SS - Testimonials #7",
+      "settings": {
+        "hide_images": true,
+        "heading": "<h2> Customers are thrilled with their 'glow-up bedtime' routine.</h2>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 36,
+        "heading_size_mobile": 30,
+        "heading_height": 150,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "layout": "image_testimonial",
+        "layout_mobile": "image_testimonial",
+        "layout_gap": 24,
+        "layout_gap_mobile": 24,
+        "layout_mt": 36,
+        "image_row": "2",
+        "image_row_mobile": "1",
+        "image_gap": 12,
+        "image_gap_mobile": 12,
+        "image_radius": 8,
+        "image_border_thickness": 0,
+        "image_ratio": "square",
+        "image_style_mobile": "slider",
+        "testimonials_style_mobile": "slider",
+        "testimonials_row": "2",
+        "testimonials_row_mobile": "1",
+        "testimonials_gap": 12,
+        "testimonials_gap_mobile": 12,
+        "testimonial_padding_vertical": 12,
+        "testimonial_padding_horizontal": 12,
+        "testimonial_radius": 8,
+        "testimonial_border_thickness": 1,
+        "stars_size": 24,
+        "testimonial_text_custom": false,
+        "testimonial_text_font": "josefin_sans_n4",
+        "testimonial_text_size": 14,
+        "testimonial_text_size_mobile": 14,
+        "testimonial_text_height": 150,
+        "testimonial_text_mt": 8,
+        "testimonial_author_custom": false,
+        "testimonial_author_font": "josefin_sans_n4",
+        "testimonial_author_size": 14,
+        "testimonial_author_size_mobile": 14,
+        "testimonial_author_height": 150,
+        "testimonial_author_mt": 12,
+        "testimonial_verified_custom": false,
+        "testimonial_verified_font": "josefin_sans_n4",
+        "testimonial_verified_size": 10,
+        "testimonial_verified_size_mobile": 10,
+        "testimonial_verified_height": 150,
+        "button": "",
+        "button_url": "",
+        "button_use_icon": false,
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 18,
+        "button_size_mobile": 16,
+        "button_height": 100,
+        "button_align": "center",
+        "button_align_mobile": "center",
+        "button_mt": 24,
+        "button_padding_vertical": 16,
+        "button_padding_horizontal": 50,
+        "button_radius": 12,
+        "button_border_thickness": 2,
+        "heading_color": "#120A0A",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "button_color": "#000000",
+        "button_hover_color": "#000000",
+        "button_bg_color": "#FFFFFF",
+        "button_bg_hover_color": "#FFFFFF",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "image_border_color": "#000000",
+        "testimonial_bg_color": "#FFFFFF",
+        "testimonial_border_color": "#000000",
+        "stars_color": "#F7DC5A",
+        "testimonial_text_color": "#000000",
+        "testimonial_author_color": "#000000",
+        "testimonial_verified_color": "#00B67B",
+        "testimonial_pagination_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 96,
+        "padding_bottom": 96,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "content_width": 140,
+        "border_thickness": 0
+      }
     }
   },
   "order": [
@@ -635,6 +871,7 @@
     "multi_column_JFLBLk",
     "featured_product_GbnHek",
     "ss_comparaison_table_8BeLxd",
-    "faq_9PcTWt"
+    "faq_9PcTWt",
+    "ss_testimonial_7_bhq4MX"
   ]
 }
