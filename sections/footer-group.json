@@ -14,26 +14,27 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "Need help?",
+            "content": "<p>Contact us via the form on our Contact page, by email at contact@core-armour.com</p><p><br/><strong>Opening hours (UK Time):</strong><br/><br/>Mon–Fri: 9 am–12 pm & 2 pm–6 pm <br/><br/>Sat & Sun: 10 am–12 pm</p>",
+            "enable_follow_on_shop": true
+          }
+        },
         "links": {
           "type": "links",
+          "disabled": true,
           "settings": {
             "menu": "footer",
             "show_menu_title": true,
             "menu_title": ""
           }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "Need help?",
-            "content": "<p>Contact us via the form on our Contact page, by email at contact@core-armour.com<br/><strong>Opening hours (UK Time):</strong><br/><br/>Mon–Fri: 9 am–12 pm & 2 pm–6 pm <br/><br/>Sat & Sun: 10 am–12 pm</p>",
-            "enable_follow_on_shop": true
-          }
         }
       },
       "block_order": [
-        "links",
-        "text"
+        "text",
+        "links"
       ],
       "settings": {
         "show_social_media": true,
