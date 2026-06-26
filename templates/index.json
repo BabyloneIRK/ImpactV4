@@ -208,6 +208,19 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_3r7mrx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_-_2026-04-07T152246.607.webp",
+            "column_size": "3",
+            "title": "Ben W. — Age 36",
+            "heading_tag": "h4",
+            "content": "<p>I bought it hoping it'd make me look a bit slimmer. I wasn't expecting much more. A few weeks later, people at work started saying I looked fitter. The funny thing is, I hadn't changed my routine at all.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
@@ -215,7 +228,8 @@
         "item_hcrPtC",
         "item_4zd6zD",
         "item_M9aQea",
-        "item_ykCNcb"
+        "item_ykCNcb",
+        "item_3r7mrx"
       ],
       "name": "Multi-column",
       "settings": {
