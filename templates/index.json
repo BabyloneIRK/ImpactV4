@@ -627,10 +627,10 @@
     "ss_testimonial_7_bhq4MX": {
       "type": "ss-testimonial-7",
       "blocks": {
-        "image_MpB79Q": {
+        "image_CEqVbn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/1781709514__1781709504652-img_8282__original.webp"
+            "image": "shopify://shop_images/1780469861__1780469854463-17804698354455949363622451__original.webp"
           }
         },
         "image_R39U66": {
@@ -639,16 +639,22 @@
             "image": "shopify://shop_images/1781074683__1781074678790-20260610_164030__original.webp"
           }
         },
+        "image_9A7Cnn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1778999526__img_1615__original.webp"
+          }
+        },
+        "image_MpB79Q": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1781709514__1781709504652-img_8282__original.webp"
+          }
+        },
         "image_dhVTh4": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/1780589524__1780589514495-img_20260604_121036091__original.webp"
-          }
-        },
-        "image_CEqVbn": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/1780469861__1780469854463-17804698354455949363622451__original.webp"
           }
         },
         "image_pTxpAV": {
@@ -667,12 +673,6 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/1779866289__1779866284008-20260527_101708__original.webp"
-          }
-        },
-        "image_9A7Cnn": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/1778999526__img_1615__original.webp"
           }
         },
         "testimonial_jL4VgE": {
@@ -749,14 +749,14 @@
         }
       },
       "block_order": [
-        "image_MpB79Q",
-        "image_R39U66",
-        "image_dhVTh4",
         "image_CEqVbn",
+        "image_R39U66",
+        "image_9A7Cnn",
+        "image_MpB79Q",
+        "image_dhVTh4",
         "image_pTxpAV",
         "image_CVQrUD",
         "image_waYHFe",
-        "image_9A7Cnn",
         "testimonial_jL4VgE",
         "testimonial_xiTCTi",
         "testimonial_VEiV7G",
