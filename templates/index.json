@@ -562,12 +562,20 @@
             "title": "How quickly will I notice results?",
             "content": "<p>Every body is different, but the majority of customers report a visible transformation within the first 30 days. For maximum impact, wear your CoreArmour™ daily and complement it with balanced nutrition and regular movement.</p>"
           }
+        },
+        "item_FJwr4n": {
+          "type": "item",
+          "settings": {
+            "title": "What happens if my size doesn't fit?",
+            "content": "<p>Not a problem at all. Simply contact us at contact@core-armour.com and our team will arrange an exchange right away.</p>"
+          }
         }
       },
       "block_order": [
         "item_BxWWYb",
         "item_i4a3ng",
-        "item_j6zawx"
+        "item_j6zawx",
+        "item_FJwr4n"
       ],
       "name": "FAQ",
       "settings": {
